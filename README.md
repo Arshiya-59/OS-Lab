@@ -1,4 +1,5 @@
 # OS-Lab
+```c
 #include <stdio.h>
 #include <stdlib.h>
 void simulate_cp(const char *source, const char *destination) {
@@ -26,3 +27,4 @@ return EXIT_FAILURE;
 simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
+```
