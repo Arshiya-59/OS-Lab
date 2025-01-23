@@ -29,7 +29,7 @@ simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
->##Simulation code for ls command
+>## Simulation code for ls command
 ```c
 #include <stdio.h>
 #include <stdlib.h>
